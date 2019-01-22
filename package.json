@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-rek",
+  "version": "1.0.0",
+  "description": "Lint config for our frontend apps",
+  "author": "Adam Tombleson <rekarnar@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/rek/eslint-config-rek.git"
+  },
+  "keywords": [
+    "zegal",
+    "react",
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "license": "MIT"
+}
