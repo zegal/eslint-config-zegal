@@ -1,5 +1,8 @@
 module.exports = {
 	'extends': 'react-app',
+	"plugins": [
+		"react-hooks"
+	],
 	'rules': {
 		'array-bracket-spacing': [
 			'error',
@@ -33,6 +36,7 @@ module.exports = {
 			1,
 			'tab'
 		],
+		"react-hooks/rules-of-hooks": "error",
 		'space-in-parens': [
 			'error',
 			'never'
