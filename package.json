@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lint config for our frontend apps",
   "author": "Adam Tombleson <rekarnar@gmail.com>",
   "main": "index.js",
