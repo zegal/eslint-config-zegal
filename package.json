@@ -1,12 +1,12 @@
 {
-  "name": "eslint-config-rek",
+  "name": "eslint-config-zegal",
   "version": "1.0.1",
   "description": "Lint config for our frontend apps",
-  "author": "Adam Tombleson <rekarnar@gmail.com>",
+  "author": "Adam Tombleson <adam.tombleson@zegal.com>",
   "main": "index.js",
   "repository": {
     "type": "https",
-    "url": "https://github.com/rek/eslint-config-rek.git"
+    "url": "https://github.com/zegal/eslint-config-zegal.git"
   },
   "keywords": [
     "zegal",

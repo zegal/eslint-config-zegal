@@ -1,7 +1,7 @@
 module.exports = {
 	'extends': 'react-app',
-	"plugins": [
-		"react-hooks"
+	'plugins': [
+		'react-hooks'
 	],
 	'rules': {
 		'array-bracket-spacing': [
@@ -36,7 +36,7 @@ module.exports = {
 			1,
 			'tab'
 		],
-		"react-hooks/rules-of-hooks": "error",
+		'react-hooks/rules-of-hooks': 'error',
 		'space-in-parens': [
 			'error',
 			'never'
@@ -72,6 +72,9 @@ module.exports = {
 			'never'
 		],
 		'no-duplicate-imports': [
+			'error'
+		],
+		'space-infix-ops': [
 			'error'
 		]
 	}
