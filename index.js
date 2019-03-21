@@ -21,8 +21,6 @@ module.exports = {
 			{}
 		],
 		'no-multi-spaces': 1,
-		'no-unused-vars': 'warn',
-		'no-undef': 1,
 		'no-irregular-whitespace': 1,
 		'no-mixed-spaces-and-tabs': 1,
 		'jsx-quotes': [
