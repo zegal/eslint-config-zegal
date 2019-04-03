@@ -34,7 +34,8 @@ module.exports = {
 			1,
 			'tab'
 		],
-		'react-hooks/rules-of-hooks': 'error',
+		'react-hooks/rules-of-hooks': 'error', // Checks rules of Hooks
+		'react-hooks/exhaustive-deps': 'warn' // Checks effect dependencies		
 		'space-in-parens': [
 			'error',
 			'never'
