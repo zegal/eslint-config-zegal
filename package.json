@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zegal",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Lint config for our frontend apps",
   "author": "Adam Tombleson <adam.tombleson@zegal.com>",
   "main": "index.js",
